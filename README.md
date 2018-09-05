@@ -17,6 +17,8 @@ Things I learned:
 
 -I wish I had used Unity with its built in packages for game development, rather than try to build it myself
 
-
-
 This project has been discontinued as I will try to learn it all in Unity.
+
+Changes that I plan to make despite being discontinued:
+
+- Implement the A* Algorithm for enemy AI's if the difficult is set higher. Currently they run at you despite being blocked by a path. This will add a layer of difficulty.
